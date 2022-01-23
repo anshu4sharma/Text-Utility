@@ -1,0 +1,21 @@
+
+
+@media screen and (min-width: 980px) {
+    #floatingTextarea2{
+        height: 200px;
+    }
+    
+  }
+@media screen and (max-width: 420px) {
+    #floatingTextarea2{
+        height: 150px;
+    }
+    
+  }
+
+  .navbar-brand{
+
+    font-weight: 500;
+  }
+
+ 
